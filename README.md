@@ -135,8 +135,8 @@ You can supply parameters to bypass interactive prompts.
 ./pim.ps1 -Bypass "Global Administrator" -RoleType "Entra Roles"
 ```
 
-	•	-Bypass: Directly selects the specified role.
-	•	-RoleType: Specifies that the role is an Entra role.
+- Bypass: Directly selects the specified role.
+- RoleType: Specifies that the role is an Entra role.
 
  #### Azure Resources Elevation Example:
  ```powershell
