@@ -42,6 +42,8 @@ This script is designed to automate role elevation through PIM by leveraging Mic
 
 ### Required Modules
 
+**Note: At the time of writing this script, certain latest versions of the modules below had bugs when testing this script, that is the reason for the version lock here**
+
 The script automatically checks for and installs the following modules with specified versions:
 
 - **Microsoft Graph Modules**
